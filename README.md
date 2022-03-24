@@ -71,6 +71,6 @@ $ git commit -m "Update main.tf"
 $ git push origin patch
 ```
 
-13. Step 12 will result a commit in external project repo, too.
+13. Step 12 will result a commit in forked repo.
 
 14. Open a PR from the pushed commit
