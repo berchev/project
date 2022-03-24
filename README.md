@@ -65,12 +65,10 @@ $ git status
 $ git commit -m "Update main.tf"
 ```
 
-12. Publish your work in your remote fork with a push:
+12. Push your feature branch in your remote fork:
 
 ```
 $ git push origin patch
 ```
 
-13. Step 12 will result a commit in forked repo.
-
-14. Open a PR from the pushed commit
+13. Open a PR from the pushed commit
